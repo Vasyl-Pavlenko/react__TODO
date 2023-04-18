@@ -29,7 +29,7 @@ Follow these instructions to set up and run the React Todo App locally on your m
 5. Open your web browser and navigate to http://localhost:3000 to access the app.
 
 Visit preview link
-  - [DEMO LINK](https://vasyl-pavlenko.github.io/react_TODO)
+  - [DEMO LINK](https://vasyl-pavlenko.github.io/react__TODO)
 
 Visit my Github
   - [GITHUB LINK](https://github.com/Vasyl-Pavlenko/react__TODO)
